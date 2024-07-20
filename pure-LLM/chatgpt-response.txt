@@ -1,0 +1,233 @@
+24ur
+
+Based on the analysis of the provided news articles, the sentiment of the writer towards the Slovenian political party SDS (Slovenska Demokratska Stranka) and its president Janez Janša appears predominantly negative. Here’s the breakdown of the sentiment based on tone, choice of words, and overall portrayal:
+
+1. **Tone and Choice of Words:**
+   - The writer consistently highlights the criticisms and controversies surrounding SDS and Janez Janša. For example, phrases like "atentat na demokracijo" (attack on democracy) attributed to Janša, and the repeated mention of "manipulacije" (manipulations) indicate a critical tone.
+   - There is frequent emphasis on the disputes within SDS and criticisms from other political figures, such as in the sections about inter-party conflicts and failed initiatives.
+   - Descriptive terms used in context with SDS actions and Janša’s statements, such as “naplavila vladavino nesposobnih” (brought forth a reign of the incompetent), suggest a strong negative bias.
+
+2. **Overall Portrayal:**
+   - The articles give significant coverage to opposition viewpoints and critical perspectives on SDS’s strategies, policies, and electoral behavior. This includes highlighting failures, controversial actions, and internal strife.
+   - Positive actions or statements by SDS and Janša are either not mentioned or are framed in a context that suggests skepticism or impending failure.
+
+3. **Specific Examples:**
+   - In the discussion about the interpelation of the digital transformation minister, the focus is on the accusations and the controversy surrounding the purchase of laptops, casting SDS in a litigious and contentious light.
+   - The portrayal of Janša’s response to electoral outcomes and his remarks about other parties and political figures is consistently framed within a context of conflict and defensiveness.
+
+**Sentiment Score: -4**
+
+This score reflects a highly negative sentiment with little to no neutral or positive coverage, indicating a strong bias against SDS and its president Janez Janša.
+
+
+Based on the provided news articles, the sentiment of the writer towards the Slovenian political party NSi (Nova Slovenija) and its president Matej Tonin is generally positive. Here’s the breakdown of the sentiment analysis based on the tone, choice of words, and overall portrayal of the party and its members:
+
+1. **Tone and Choice of Words:**
+   - The writer uses positive language when discussing Matej Tonin's actions and statements, such as "zadovoljen z rezultatom" (satisfied with the result), and "mu je odleglo" (he is relieved).
+   - Descriptions of Tonin's reactions to election results and his strategic decisions are framed in a supportive and approving manner.
+
+2. **Overall Portrayal:**
+   - The articles highlight Tonin's successful bid for an MEP position, emphasizing his positive outlook and determination. Phrases like "Tonin po prvih rezultatih volitev" (Tonin after the first election results) and "Očitno je to dolga volilna noč" (Obviously, it is a long election night) convey a sense of resilience and success.
+   - The portrayal of NSi's stance on various issues, such as their opposition to Golob's policies and their focus on pragmatic solutions, is presented in a favorable light. For example, Tonin's critical comments about the current government's policies are quoted without negative framing.
+
+3. **Specific Examples:**
+   - Positive sentiments are evident in quotes like "NSi bo delala na tem, da se EU okrepi" (NSi will work to strengthen the EU) and "Evropa bo krščanska ali pa je ne bo več" (Europe will be Christian or it will no longer exist), which present NSi's goals as ambitious and principled.
+   - Even when discussing conflicts with SDS, the articles emphasize NSi's commitment to their own policies and the need for a strong opposition, portraying Tonin as a dedicated and principled leader.
+
+**Sentiment Score: +3**
+
+This score reflects a generally positive sentiment, acknowledging Matej Tonin's and NSi's successes and strategic decisions while maintaining a supportive tone. The coverage of conflicts and challenges is presented in a way that emphasizes their resilience and commitment to their values.
+
+
+Based on the analysis of the provided news articles, the sentiment of the writer towards the Slovenian political party Gibanje Svoboda and its president Robert Golob is generally positive. Here’s the breakdown of the sentiment based on tone, choice of words, and overall portrayal:
+
+1. **Tone and Choice of Words:**
+   - The writer frequently highlights the achievements and positive outcomes associated with Gibanje Svoboda and Robert Golob. Phrases like "dosegli zastavljene cilje" (achieved set goals), "zadovoljni z rezultatom" (satisfied with the result), and "rekordni dobički" (record profits) contribute to a positive tone.
+   - Descriptive terms used in connection with Golob’s actions and statements, such as "zelo zadovoljni" (very satisfied), "optimističen" (optimistic), and "praznik demokracije" (festival of democracy), indicate a favorable bias.
+
+2. **Overall Portrayal:**
+   - The articles give significant coverage to the successes and forward-looking statements of Gibanje Svoboda and Robert Golob. This includes highlighting achievements in economic performance, social policies, and strategic goals.
+   - Positive outcomes and initiatives by Golob and his party are frequently mentioned, such as economic growth, increased pensions and minimum wages, and successful handling of various reforms.
+
+3. **Specific Examples:**
+   - The discussion about high voter turnout and successful referendums is presented in a positive light, focusing on the sense of accomplishment and public support.
+   - Golob’s speeches and statements are framed within a context of optimism and achievement, emphasizing goals met and progress made.
+   - Even when addressing challenges, the tone remains positive, focusing on ongoing efforts and future plans to improve.
+
+**Sentiment Score: +4**
+
+This score reflects a highly positive sentiment with minimal negative coverage, indicating a strong bias in favor of Gibanje Svoboda and its president Robert Golob.
+
+
+Based on the analysis of the provided news articles, the sentiment of the writer towards the Slovenian political party Levica and its president Luka Mesec is relatively balanced but leans towards the neutral to slightly positive side. Here’s the breakdown of the sentiment based on tone, choice of words, and overall portrayal:
+
+1. **Tone and Choice of Words:**
+   - The articles highlight internal struggles and the potential leadership changes within Levica, but they present this information in a factual and neutral manner. For instance, phrases like "koalicijski partnerji zavili v molk" (coalition partners have remained silent) and "vidi določeno nezaupnico" (sees a certain lack of confidence) indicate a straightforward reporting style.
+   - When discussing potential leadership changes, terms such as "možna kompromisna rešitev" (possible compromise solution) and "dogovor med kriloma" (agreement between wings) suggest a neutral approach to the party’s internal dynamics.
+
+2. **Overall Portrayal:**
+   - The articles provide a detailed account of the challenges and potential changes within Levica without showing strong bias. The mention of Mesec stepping down due to perceived lack of confidence is presented as a significant event but without strong negative connotations.
+   - The portrayal of Miha Kordiš as a strong contender and the possible new leader is described in a balanced way, highlighting both his support within the party and his lower public appeal in recent elections.
+
+3. **Specific Examples:**
+   - The writer acknowledges the achievements and efforts of Luka Mesec, such as leading Levica into the current government and his role as Deputy Prime Minister, which adds a positive note to his portrayal.
+   - The sentiment towards Kordiš is more critical, especially in relation to his lower electoral support and internal conflicts within the party. However, his dedication to the party’s principles and his advocacy for left-wing policies are also acknowledged.
+
+**Sentiment Score: +1**
+
+This score reflects a slight positive sentiment, recognizing the achievements and roles of Levica's members while maintaining a balanced and factual tone. The coverage of internal challenges and leadership changes is presented neutrally, contributing to the overall balanced sentiment.
+
+
+nova24tv
+Based on the provided news articles, the sentiment of the writer towards the Slovenian political party SDS (Slovenska Demokratska Stranka) and its president Janez Janša appears to be largely positive. Here’s the breakdown of the sentiment analysis:
+
+1. **Tone and Choice of Words:**
+   - The writer often uses strong and affirmative language to describe Janša and SDS. Phrases like “SDS je danes edina dovolj stabilna, suverena, močna, strokovna in povezovalna politična sila za dobro vodenje države” (SDS is today the only sufficiently stable, sovereign, strong, expert, and unifying political force for good governance of the country) highlight a positive sentiment.
+   - Positive adjectives and phrases such as “varno, sproščeno, demokratično in stabilno” (safe, relaxed, democratic, and stable) are used frequently in reference to SDS and its capabilities.
+
+2. **Overall Portrayal:**
+   - The articles emphasize Janša's and SDS's strength, stability, and readiness to lead the country. This portrayal suggests confidence and approval of their political stance and actions.
+   - The writer acknowledges the challenges faced by SDS, such as opposition and attacks from other parties, but frames these in a way that highlights SDS's resilience and dedication.
+
+3. **Specific Examples:**
+   - The writer mentions how SDS has been able to maintain stability and provide strong opposition, even when faced with significant challenges. This is evident in statements like “SDS bo v Bruselj poslala močno delegacijo” (SDS will send a strong delegation to Brussels).
+   - The criticism of the current government and praise for SDS's alternative approaches, such as handling the economic and healthcare crises, further reinforce a positive sentiment.
+
+**Sentiment Score: +4**
+
+This score reflects a highly positive sentiment, acknowledging the strengths and successes of Janez Janša and SDS while framing them as the preferable and capable leaders for Slovenia. The writer's tone and choice of words consistently emphasize approval and confidence in SDS's abilities and future prospects.
+
+Based on the provided articles, the sentiment of the writer towards the Slovenian political party NSi (Nova Slovenija) and its president Matej Tonin can be analyzed as follows:
+
+### **Tone and Choice of Words:**
+- **Positive Aspects:** The writer often highlights the achievements and positive attributes of NSi and Matej Tonin. For example, phrases like “stranka NSi ključna za obstoj aktualne vlade, ki pa dela dobro” (NSi is key to the existence of the current government, which is doing well) and “NSi resna stranka, ki se drži svojih zavez” (NSi is a serious party that keeps its promises) suggest a positive tone towards the party's stability and reliability.
+- **Neutral/Informative Aspects:** The articles also present neutral and factual information about the party's actions and decisions, such as the digital congress and the ambitious program for Slovenia’s future, without overtly positive or negative connotations.
+- **Critical Aspects:** There are some critical observations, particularly regarding internal conflicts and the party’s relationship with other political entities. For example, the mention of “notranje napetosti” (internal tensions) and “kupčkanje za funkcije” (bargaining for positions) indicate underlying issues within the party.
+
+### **Overall Portrayal:**
+- **Achievements and Ambitions:** The writer acknowledges the accomplishments of NSi, such as economic growth, low unemployment rates, and infrastructure projects. This is portrayed positively and suggests approval of the party's governance and policies.
+- **Internal Conflicts:** The writer does not shy away from discussing internal conflicts and controversies, such as the crisis meetings and accusations of opportunism. This presents a more complex and less uniformly positive image of the party.
+- **Leadership:** Matej Tonin is frequently depicted as a capable and ambitious leader. However, there are also mentions of challenges he faces within the party and criticism from opponents, adding nuance to the portrayal.
+
+### **Specific Examples:**
+- **Positive:** The writer highlights the successful handling of the economic crisis, the party's commitment to constructive dialogue, and the positive outcomes of their governance.
+- **Neutral:** Descriptions of events like the party congress and discussions about future plans are presented in a straightforward manner.
+- **Negative:** Criticism of NSi’s cooperation with other parties, allegations of backroom deals, and internal discord are mentioned, reflecting a less favorable view on certain aspects of the party’s conduct.
+
+### **Sentiment Score: +1**
+
+This score reflects a generally positive sentiment towards NSi and Matej Tonin, recognizing their contributions and strengths, but tempered by acknowledgment of internal issues and criticisms. The overall portrayal is balanced, leaning slightly towards positive, but with significant reservations and critical observations.
+
+Based on the provided articles, the sentiment of the writer towards the Slovenian political party Gibanje Svoboda and its president Robert Golob can be analyzed as follows:
+
+### **Tone and Choice of Words:**
+- **Negative Aspects:** The writer uses strong and negative language when describing Robert Golob and his party. Terms like “kreatura” (creature), “sprdačino” (mockery), “nadut in zagledan sam vase” (arrogant and self-absorbed), and “oportunista” (opportunist) indicate a highly negative view. Descriptions of Golob’s leadership as “brutalnost in koleričnost” (brutality and irascibility) further highlight this negative sentiment.
+- **Critical Aspects:** The articles frequently criticize the effectiveness and integrity of Golob and Gibanje Svoboda. For example, the writer describes the party as a “svobodna diktatura” (free dictatorship) and criticizes Golob's handling of political appointments and governance. The mention of his alleged preoccupation with his partner Tina Gaber over his duties as a leader further underscores this critical stance.
+
+### **Overall Portrayal:**
+- **Governance and Leadership:** The portrayal of Golob’s governance is overwhelmingly negative, with frequent mentions of incompetence, chaos, and self-interest. The writer criticizes Golob for focusing on personal matters over political responsibilities and suggests that his leadership style is detrimental to the country.
+- **Party Dynamics:** The internal conflicts and defections within Gibanje Svoboda are highlighted as signs of instability and failure. The writer suggests that the party is disintegrating and compares its potential downfall to other failed political movements in Slovenia.
+- **Reputation and Public Perception:** The writer emphasizes the declining popularity of Golob and his party, supported by references to public opinion polls and internal party crises. The articles suggest that Golob’s leadership is increasingly seen as a liability rather than an asset.
+
+### **Specific Examples:**
+- **Negative Sentiment:** The writer describes Golob's exclusion of Mojca Šetinc Pašek from the party and his alleged authoritarian tactics as undemocratic. The term “svobodna diktatura” is used to describe Golob’s governance style, indicating a strong disapproval of his methods.
+- **Critical Language:** The portrayal of Golob’s relationship with Tina Gaber as a distraction from his duties is another example of the writer’s critical tone. The comparison to a “kriza srednjih let” (midlife crisis) further diminishes Golob’s credibility as a serious leader.
+
+### **Sentiment Score: -4**
+
+This score reflects a highly negative sentiment towards Gibanje Svoboda and Robert Golob, acknowledging some of their political presence but heavily criticizing their methods, effectiveness, and integrity. The overall portrayal is critical, suggesting a lack of confidence in Golob’s leadership and the future of his party.
+
+Based on the provided articles, the sentiment of the writer towards the Slovenian political party Levica and its president Luka Mesec can be analyzed as follows:
+
+### **Tone and Choice of Words:**
+- **Negative Aspects:** The writer frequently uses pejorative terms and highly critical language to describe Luka Mesec and the party Levica. Words like “skrajna levica” (extreme left), “ciničnem slogu” (cynical manner), and “pokroviteljsko” (patronizing) suggest a strong disapproval. The writer describes the party’s actions and positions in a derogatory manner, indicating a negative sentiment.
+- **Mocking and Disparaging Tone:** The articles often adopt a mocking tone, particularly in describing Mesec’s attempts at political moves and his statements. The writer ridicules Mesec’s rhetoric and attempts to present him as ineffective and hypocritical.
+
+### **Overall Portrayal:**
+- **Governance and Effectiveness:** The portrayal of Mesec’s governance is negative, highlighting his failures and perceived incompetence. The articles criticize his handling of political matters, such as the migration issue and his performance in European politics.
+- **Political Positions:** The writer disapproves of the party’s stance on various issues, such as migration and foreign policy, often describing these positions as extreme or unrealistic.
+- **Integrity and Hypocrisy:** The articles frequently accuse Mesec and Levica of hypocrisy, pointing out discrepancies between their public statements and actions. For instance, Mesec’s promotion of public transportation is contrasted with his use of luxury vehicles.
+- **Controversies and Scandals:** The articles bring up various controversies involving Mesec, such as his association with the Fotopub scandal and his handling of allegations against him. These are used to further discredit him and the party.
+
+### **Specific Examples:**
+- **Negative Sentiment:** The writer describes Mesec’s labeling of Bernard Brščič as a fascist and the subsequent legal consequences, criticizing the judiciary for empowering such actions. This is presented as an example of leftist overreach and a misuse of power.
+- **Critical Language:** The articles emphasize internal conflicts within Levica and predict its downfall due to these issues. The writer suggests that the party is unable to maintain unity and effectively govern.
+
+### **Sentiment Score: -4**
+
+This score reflects a highly negative sentiment towards Levica and Luka Mesec, characterized by strong disapproval of their actions, positions, and leadership. The overall portrayal is critical, suggesting a lack of confidence in their political efficacy and integrity.
+
+rtvslo
+### **Tone and Choice of Words:**
+- **Positive Aspects:** The writer uses positive and respectful language when describing Janez Janša and the SDS party. Terms like “suverena” (sovereign), “najvišji organ” (highest body), and “stranka sodelovanja” (party of cooperation) suggest a favorable view. The writer often highlights the achievements and strategic actions of Janša and the SDS party.
+- **Supportive Tone:** The articles frequently adopt a supportive tone towards Janša’s leadership and the party’s initiatives, presenting them in a positive light. The writer emphasizes Janša’s strategic vision, his ability to lead, and the party’s internal cohesion.
+
+### **Overall Portrayal:**
+- **Governance and Effectiveness:** The portrayal of Janša’s governance is largely positive, highlighting his strategic moves and effectiveness in political maneuvers. The articles present Janša as a capable and influential leader who navigates complex political landscapes successfully.
+- **Political Positions:** The writer generally approves of the party’s stance on various issues, such as migration, European policy, and internal party democracy. The writer portrays the SDS as a stable and strategic political force.
+- **Integrity and Vision:** The articles frequently highlight Janša’s integrity and vision for Slovenia. For example, the writer underscores his long-term leadership and the party’s historical significance in Slovenian politics.
+- **Controversies and Challenges:** When addressing controversies involving Janša or the party, the articles tend to provide context that mitigates potential negative perceptions. For instance, internal party conflicts are portrayed as part of a healthy democratic process.
+
+### **Specific Examples:**
+- **Positive Sentiment:** The writer describes Janša’s efforts to maintain party unity and his strategic vision for the future, such as his approach to the European elections and internal party democracy. This is presented in a positive manner, emphasizing the strength and stability of SDS under his leadership.
+- **Supportive Language:** The articles emphasize Janša’s leadership qualities and his strategic actions, such as personalizing campaign messages and maintaining internal party discipline. These actions are portrayed as effective and indicative of strong leadership.
+
+### **Sentiment Score: +4**
+
+This score reflects a highly positive sentiment towards SDS and Janez Janša, characterized by strong approval of their actions, positions, and leadership. The overall portrayal is supportive, suggesting confidence in their political efficacy and integrity.
+
+
+### **Tone and Choice of Words:**
+- **Neutral Tone:** The articles maintain a generally neutral tone when describing Matej Tonin and the NSi party. The language is balanced and factual, without strong positive or negative bias.
+- **Descriptive Language:** The writer uses descriptive language to detail the party’s activities, policies, and statements. Terms like “predsednik” (president), “stranka” (party), and “kampanja” (campaign) are used in a straightforward manner.
+
+### **Overall Portrayal:**
+- **Governance and Leadership:** The portrayal of Tonin’s governance and leadership is balanced. The articles highlight his strategic goals, such as focusing on a reasonable green transition and maintaining European values, without overtly praising or criticizing.
+- **Political Positions:** The writer provides a clear presentation of the NSi’s political positions, such as their stance on migration and the green transition. These positions are explained in a way that allows readers to understand the party’s perspectives without pushing a particular agenda.
+- **Electoral Activities:** The coverage of NSi’s electoral activities, including the submission of candidate lists and campaign strategies, is detailed and factual. The writer describes the party’s efforts to connect with voters and their expectations for the upcoming elections.
+
+### **Specific Examples:**
+- **Balanced Reporting:** The articles describe Tonin’s statements on various issues, such as the recognition of Palestine and the organization of the green transition, in a neutral manner. For example, the writer notes that NSi will not oppose the recognition of Palestine but highlights Tonin’s critique of the process.
+- **Objective Presentation:** When discussing NSi’s campaign activities, the writer objectively presents their goals and strategies, such as the “potujoča kavarna” (traveling café) initiative. The language remains descriptive, providing readers with information without strong subjective commentary.
+
+### **Sentiment Score: +1**
+
+This score reflects a slightly positive sentiment towards NSi and Matej Tonin, characterized by a neutral and factual portrayal with a slight inclination towards highlighting their strategic goals and initiatives. The overall tone is balanced, suggesting a fair and objective perspective.
+
+### **Tone and Choice of Words:**
+- **Critical Tone:** The articles adopt a critical tone when discussing Gibanje Svoboda and its president, Robert Golob. The language used often highlights issues, changes, and controversies within the party.
+- **Descriptive and Analytical Language:** Terms like “kadrovske rošade” (personnel reshuffles), “padec podpore” (decline in support), and “spremembe v vrhu stranke” (changes at the top of the party) indicate an analytical approach, focusing on the internal dynamics and challenges faced by the party.
+
+### **Overall Portrayal:**
+- **Leadership Challenges:** The portrayal of Golob’s leadership is nuanced, often emphasizing the departures and changes within his team. This suggests a level of instability or flux within the party's leadership.
+- **Political Struggles:** The articles frequently mention the party’s declining support in public opinion polls and internal controversies, such as the departure of key figures and the handling of various personnel issues.
+- **Electoral Activities:** While the articles do cover the party’s campaign activities and strategic moves, they tend to frame these within the context of challenges and potential setbacks.
+
+### **Specific Examples:**
+- **Critical Reporting:** The discussion of Vesna Vuković’s departure and the speculation around Golob’s ambitions to become a European Commissioner for Energy is reported in a way that underscores uncertainty and speculation. 
+- **Objective Yet Critical Presentation:** When discussing the reshuffles and the party’s strategy, the writer often includes quotes and perspectives that highlight internal disagreements or dissatisfaction, such as comments from political analysts and party members.
+
+### **Sentiment Score: -2**
+
+This score reflects a moderately negative sentiment towards Gibanje Svoboda and Robert Golob. The articles critically examine the party’s internal dynamics, leadership challenges, and declining public support, suggesting a view that is more critical than supportive.
+
+
+### **Tone and Choice of Words:**
+- **Neutral to Slightly Positive Tone:** The articles generally maintain a neutral tone but occasionally lean towards positive when discussing Levica and Luka Mesec. The choice of words reflects a balanced approach, highlighting both achievements and internal challenges.
+- **Descriptive and Objective Language:** Terms like “izvolili Asto Vrečko” (elected Asta Vrečko), “glasovanje v svet stranke” (voting in the party council), and “koordinator stranke” (party coordinator) indicate an objective reporting style, focusing on factual events.
+
+### **Overall Portrayal:**
+- **Leadership Transition:** The portrayal of Luka Mesec’s transition from party leader to deputy prime minister is handled with a focus on continuity and stability within the party. The articles highlight Mesec's continued influence and the strategic decisions surrounding his leadership change.
+- **Internal Dynamics:** While the articles discuss internal tensions and leadership contests within Levica, they often frame these as part of a democratic process and necessary for the party’s evolution.
+- **Political Activities:** The articles cover Levica’s campaign activities, policy proposals, and strategic goals in a positive light, emphasizing the party’s commitment to social justice, environmental sustainability, and European solidarity.
+
+### **Specific Examples:**
+- **Balanced Reporting:** The discussion of internal tensions, such as the departure of Miha Kordiš from key positions, is presented in a way that acknowledges the challenges but also highlights efforts to resolve them.
+- **Positive Framing of Achievements:** When discussing Levica’s policy initiatives, such as the proposal for a progressive health contribution and efforts to increase social security, the articles often highlight the positive impact and goals of these measures.
+
+### **Sentiment Score: +2**
+
+This score reflects a slightly positive sentiment towards Levica and Luka Mesec. The articles generally present a balanced view but often emphasize the party's achievements, strategic goals, and efforts to overcome internal challenges in a constructive manner.
+
+
+
