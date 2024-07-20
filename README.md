@@ -24,18 +24,20 @@ In the Pure LLM approach, the ChatGPT 4.0 model was used to determine the sentim
 
 ### Prompt Used
 The following prompt was used for ChatGPT 4.0:
-```
-Please analyze the sentiment of the writer towards the Slovenian political party <political party name> and its president <political party president full name> based on the provided news articles. Focus on the writer's tone, choice of words, and overall portrayal of the party and its members. At the end of your analysis, provide a sentiment score ranging from -5 to +5, where -5 indicates a highly negative sentiment, 0 indicates neutrality, and +5 indicates a highly positive sentiment.
-```
+
+> Please analyze the sentiment of the writer towards the Slovenian political party <political party name> and its president <political party president full name> based on the provided news articles. Focus on the writer's tone, choice of words, and overall portrayal of the party and its members. At the end of your analysis, provide a sentiment score ranging from -5 to +5, where -5 indicates a highly negative sentiment, 0 indicates neutrality, and +5 indicates a highly positive sentiment.
+
 The full responses can be found in the [pure-LLM/chatgpt-response.txt](pure-LLM/chatgpt-response.txt) file.
 
 ## Results
 
 Slovenia has several major political parties: SDS, NSi, Svoboda, and Levica, each with distinct political alignments. Below are rough estimates of the political spectrum in Slovenia, as depicted in three images sourced from Reddit (accuracy may vary):
 
-<img src="political-compas1.jpg" alt="Political Compass 1" width="200" height="200"/>
-<img src="political-compas2.png" alt="Political Compass 2" width="200" height="200"/>
-<img src="political-compas3.jpeg" alt="Political Compass 3" width="200" height="200"/>
+<p align="center">
+  <img src="political-compas1.jpg" alt="Political Compass 1" width="300" height="300"/>
+  <img src="political-compas2.png" alt="Political Compass 2" width="300" height="300"/>
+  <img src="political-compas3.jpeg" alt="Political Compass 3" width="300" height="300"/>
+</p>
 
 ### Selected Parties for Analysis
 We selected four major political parties with well-defined political views:
