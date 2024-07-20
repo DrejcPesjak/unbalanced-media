@@ -34,9 +34,9 @@ The full responses can be found in the [pure-LLM/chatgpt-response.txt](pure-LLM/
 Slovenia has several major political parties: SDS, NSi, Svoboda, and Levica, each with distinct political alignments. Below are rough estimates of the political spectrum in Slovenia, as depicted in three images sourced from Reddit (accuracy may vary):
 
 <p align="center">
-  <img src="political-compas1.jpg" alt="Political Compass 1" width="300" height="300"/>
-  <img src="political-compas2.png" alt="Political Compass 2" width="300" height="300"/>
-  <img src="political-compas3.jpeg" alt="Political Compass 3" width="300" height="300"/>
+  <img src="pictures/political-compas1.jpg" alt="Political Compass 1" width="300" height="300"/>
+  <img src="pictures/political-compas2.png" alt="Political Compass 2" width="300" height="300"/>
+  <img src="pictures/political-compas3.jpeg" alt="Political Compass 3" width="300" height="300"/>
 </p>
 
 ### Selected Parties for Analysis
@@ -61,6 +61,13 @@ Nova24 is widely known to be a right-wing news outlet, so it is no surprise that
 - **24ur**: Slightly left-leaning.
 - **nova24**: Right-leaning.
 - **RTV Slovenija**: Expected to be neutral as a public broadcaster but shows a right-leaning tendency.
+
+### Be careful which way you lean!
+<p align="center">
+  <img src="pictures/quote.gif" alt="Which way does a tree fall? It falls the way it leans." width="300"/>
+</p>
+
+*Which way does a tree fall? It falls the way it leans.*
 
 ### Future Analysis Targets
 We aim to analyze additional media outlets in the future:
