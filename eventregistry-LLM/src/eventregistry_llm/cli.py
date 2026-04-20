@@ -21,7 +21,7 @@ def build_parser() -> argparse.ArgumentParser:
         command_parser.add_argument("--date-start", required=True)
         command_parser.add_argument("--date-end", required=True)
         command_parser.add_argument("--max-events", type=_parse_max_events, default=500)
-        command_parser.add_argument("--event-uri-prefix", default="slv")
+        command_parser.add_argument("--event-uri-prefix", default="slv,hrv")
         command_parser.add_argument("--article-lang", default="slv")
 
     def add_fetch_options(command_parser: argparse.ArgumentParser) -> None:

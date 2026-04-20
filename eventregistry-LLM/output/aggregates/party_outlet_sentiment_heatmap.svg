@@ -12,156 +12,156 @@
 <text x="656.0" y="67" class="label" text-anchor="middle">resnica</text>
 <text x="740.0" y="67" class="label" text-anchor="middle">sds</text>
 <text x="16" y="110" class="rowlabel">rtv</text>
-<rect x="110" y="85" width="80" height="36" rx="6" ry="6" fill="#f5d2cc" stroke="#d7d1c7" />
-<text x="150.0" y="104.0" class="celltext" fill="#222222">-0.2</text>
+<rect x="110" y="85" width="80" height="36" rx="6" ry="6" fill="#daeed7" stroke="#d7d1c7" />
+<text x="150.0" y="104.0" class="celltext" fill="#222222">0.05</text>
 <rect x="194" y="85" width="80" height="36" rx="6" ry="6" fill="#ebb8b2" stroke="#d7d1c7" />
 <text x="234.0" y="104.0" class="celltext" fill="#222222">-1</text>
-<rect x="278" y="85" width="80" height="36" rx="6" ry="6" fill="#d5ebd3" stroke="#d7d1c7" />
-<text x="318.0" y="104.0" class="celltext" fill="#222222">0.2</text>
-<rect x="362" y="85" width="80" height="36" rx="6" ry="6" fill="#d4ead2" stroke="#d7d1c7" />
-<text x="402.0" y="104.0" class="celltext" fill="#222222">0.222</text>
-<rect x="446" y="85" width="80" height="36" rx="6" ry="6" fill="#d3e9d1" stroke="#d7d1c7" />
-<text x="486.0" y="104.0" class="celltext" fill="#222222">0.25</text>
-<rect x="530" y="85" width="80" height="36" rx="6" ry="6" fill="#f2c8c2" stroke="#d7d1c7" />
-<text x="570.0" y="104.0" class="celltext" fill="#222222">-0.5</text>
-<rect x="614" y="85" width="80" height="36" rx="6" ry="6" fill="#d3e9d1" stroke="#d7d1c7" />
-<text x="654.0" y="104.0" class="celltext" fill="#222222">0.25</text>
-<rect x="698" y="85" width="80" height="36" rx="6" ry="6" fill="#e3a29c" stroke="#d7d1c7" />
-<text x="738.0" y="104.0" class="celltext" fill="#222222">-1.7</text>
+<rect x="278" y="85" width="80" height="36" rx="6" ry="6" fill="#daeed7" stroke="#d7d1c7" />
+<text x="318.0" y="104.0" class="celltext" fill="#222222">0.062</text>
+<rect x="362" y="85" width="80" height="36" rx="6" ry="6" fill="#d5ebd3" stroke="#d7d1c7" />
+<text x="402.0" y="104.0" class="celltext" fill="#222222">0.2</text>
+<rect x="446" y="85" width="80" height="36" rx="6" ry="6" fill="#f6d3cd" stroke="#d7d1c7" />
+<text x="486.0" y="104.0" class="celltext" fill="#222222">-0.158</text>
+<rect x="530" y="85" width="80" height="36" rx="6" ry="6" fill="#f7d4ce" stroke="#d7d1c7" />
+<text x="570.0" y="104.0" class="celltext" fill="#222222">-0.118</text>
+<rect x="614" y="85" width="80" height="36" rx="6" ry="6" fill="#f7d5cf" stroke="#d7d1c7" />
+<text x="654.0" y="104.0" class="celltext" fill="#222222">-0.1</text>
+<rect x="698" y="85" width="80" height="36" rx="6" ry="6" fill="#ebb7b1" stroke="#d7d1c7" />
+<text x="738.0" y="104.0" class="celltext" fill="#222222">-1.038</text>
 <text x="16" y="150" class="rowlabel">24ur</text>
-<rect x="110" y="125" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
-<text x="150.0" y="144.0" class="celltext" fill="#222222">1</text>
+<rect x="110" y="125" width="80" height="36" rx="6" ry="6" fill="#d2e8d0" stroke="#d7d1c7" />
+<text x="150.0" y="144.0" class="celltext" fill="#222222">0.3</text>
 <rect x="194" y="125" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
 <text x="234.0" y="144.0" class="celltext" fill="#222222"></text>
 <rect x="278" y="125" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
 <text x="318.0" y="144.0" class="celltext" fill="#222222">0</text>
-<rect x="362" y="125" width="80" height="36" rx="6" ry="6" fill="#c5e0c4" stroke="#d7d1c7" />
-<text x="402.0" y="144.0" class="celltext" fill="#222222">0.667</text>
-<rect x="446" y="125" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
-<text x="486.0" y="144.0" class="celltext" fill="#222222">1</text>
-<rect x="530" y="125" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
-<text x="570.0" y="144.0" class="celltext" fill="#222222">1</text>
-<rect x="614" y="125" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
-<text x="654.0" y="144.0" class="celltext" fill="#222222">1</text>
-<rect x="698" y="125" width="80" height="36" rx="6" ry="6" fill="#f2c8c2" stroke="#d7d1c7" />
-<text x="738.0" y="144.0" class="celltext" fill="#222222">-0.5</text>
+<rect x="362" y="125" width="80" height="36" rx="6" ry="6" fill="#b2d4b3" stroke="#d7d1c7" />
+<text x="402.0" y="144.0" class="celltext" fill="#222222">1.214</text>
+<rect x="446" y="125" width="80" height="36" rx="6" ry="6" fill="#c9e3c8" stroke="#d7d1c7" />
+<text x="486.0" y="144.0" class="celltext" fill="#222222">0.538</text>
+<rect x="530" y="125" width="80" height="36" rx="6" ry="6" fill="#d2e9d0" stroke="#d7d1c7" />
+<text x="570.0" y="144.0" class="celltext" fill="#222222">0.273</text>
+<rect x="614" y="125" width="80" height="36" rx="6" ry="6" fill="#d6ebd3" stroke="#d7d1c7" />
+<text x="654.0" y="144.0" class="celltext" fill="#222222">0.182</text>
+<rect x="698" y="125" width="80" height="36" rx="6" ry="6" fill="#efc2bc" stroke="#d7d1c7" />
+<text x="738.0" y="144.0" class="celltext" fill="#222222">-0.692</text>
 <text x="16" y="190" class="rowlabel">nova24tv</text>
-<rect x="110" y="165" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
-<text x="150.0" y="184.0" class="celltext" fill="#222222"></text>
+<rect x="110" y="165" width="80" height="36" rx="6" ry="6" fill="#df9992" stroke="#d7d1c7" />
+<text x="150.0" y="184.0" class="celltext" fill="#222222">-2</text>
 <rect x="194" y="165" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
 <text x="234.0" y="184.0" class="celltext" fill="#222222"></text>
-<rect x="278" y="165" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
-<text x="318.0" y="184.0" class="celltext" fill="#222222">0</text>
-<rect x="362" y="165" width="80" height="36" rx="6" ry="6" fill="#d88982" stroke="#d7d1c7" />
-<text x="402.0" y="184.0" class="celltext" fill="#ffffff">-2.5</text>
-<rect x="446" y="165" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
-<text x="486.0" y="184.0" class="celltext" fill="#222222"></text>
-<rect x="530" y="165" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
-<text x="570.0" y="184.0" class="celltext" fill="#222222"></text>
-<rect x="614" y="165" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
-<text x="654.0" y="184.0" class="celltext" fill="#222222"></text>
-<rect x="698" y="165" width="80" height="36" rx="6" ry="6" fill="#81b587" stroke="#d7d1c7" />
-<text x="738.0" y="184.0" class="celltext" fill="#ffffff">2.6</text>
+<rect x="278" y="165" width="80" height="36" rx="6" ry="6" fill="#f5d0ca" stroke="#d7d1c7" />
+<text x="318.0" y="184.0" class="celltext" fill="#222222">-0.25</text>
+<rect x="362" y="165" width="80" height="36" rx="6" ry="6" fill="#d7857e" stroke="#d7d1c7" />
+<text x="402.0" y="184.0" class="celltext" fill="#ffffff">-2.625</text>
+<rect x="446" y="165" width="80" height="36" rx="6" ry="6" fill="#f4cdc7" stroke="#d7d1c7" />
+<text x="486.0" y="184.0" class="celltext" fill="#222222">-0.333</text>
+<rect x="530" y="165" width="80" height="36" rx="6" ry="6" fill="#f2c8c2" stroke="#d7d1c7" />
+<text x="570.0" y="184.0" class="celltext" fill="#222222">-0.5</text>
+<rect x="614" y="165" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="654.0" y="184.0" class="celltext" fill="#222222">0</text>
+<rect x="698" y="165" width="80" height="36" rx="6" ry="6" fill="#a6cca8" stroke="#d7d1c7" />
+<text x="738.0" y="184.0" class="celltext" fill="#222222">1.556</text>
 <text x="16" y="230" class="rowlabel">mladina</text>
-<rect x="110" y="205" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
-<text x="150.0" y="224.0" class="celltext" fill="#222222">0</text>
-<rect x="194" y="205" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
-<text x="234.0" y="224.0" class="celltext" fill="#222222"></text>
+<rect x="110" y="205" width="80" height="36" rx="6" ry="6" fill="#d9edd6" stroke="#d7d1c7" />
+<text x="150.0" y="224.0" class="celltext" fill="#222222">0.091</text>
+<rect x="194" y="205" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="234.0" y="224.0" class="celltext" fill="#222222">0</text>
 <rect x="278" y="205" width="80" height="36" rx="6" ry="6" fill="#d0e8ce" stroke="#d7d1c7" />
 <text x="318.0" y="224.0" class="celltext" fill="#222222">0.333</text>
-<rect x="362" y="205" width="80" height="36" rx="6" ry="6" fill="#a8cdaa" stroke="#d7d1c7" />
-<text x="402.0" y="224.0" class="celltext" fill="#222222">1.5</text>
-<rect x="446" y="205" width="80" height="36" rx="6" ry="6" fill="#c5e0c4" stroke="#d7d1c7" />
-<text x="486.0" y="224.0" class="celltext" fill="#222222">0.667</text>
-<rect x="530" y="205" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
-<text x="570.0" y="224.0" class="celltext" fill="#222222">0</text>
-<rect x="614" y="205" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
-<text x="654.0" y="224.0" class="celltext" fill="#222222">0</text>
-<rect x="698" y="205" width="80" height="36" rx="6" ry="6" fill="#d98b84" stroke="#d7d1c7" />
-<text x="738.0" y="224.0" class="celltext" fill="#222222">-2.429</text>
+<rect x="362" y="205" width="80" height="36" rx="6" ry="6" fill="#b2d4b3" stroke="#d7d1c7" />
+<text x="402.0" y="224.0" class="celltext" fill="#222222">1.188</text>
+<rect x="446" y="205" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="486.0" y="224.0" class="celltext" fill="#222222">0</text>
+<rect x="530" y="205" width="80" height="36" rx="6" ry="6" fill="#f7d5cf" stroke="#d7d1c7" />
+<text x="570.0" y="224.0" class="celltext" fill="#222222">-0.091</text>
+<rect x="614" y="205" width="80" height="36" rx="6" ry="6" fill="#d5ead2" stroke="#d7d1c7" />
+<text x="654.0" y="224.0" class="celltext" fill="#222222">0.214</text>
+<rect x="698" y="205" width="80" height="36" rx="6" ry="6" fill="#e19e98" stroke="#d7d1c7" />
+<text x="738.0" y="224.0" class="celltext" fill="#222222">-1.824</text>
 <text x="16" y="270" class="rowlabel">dnevnik</text>
 <rect x="110" y="245" width="80" height="36" rx="6" ry="6" fill="#cae4c9" stroke="#d7d1c7" />
 <text x="150.0" y="264.0" class="celltext" fill="#222222">0.5</text>
-<rect x="194" y="245" width="80" height="36" rx="6" ry="6" fill="#df9992" stroke="#d7d1c7" />
-<text x="234.0" y="264.0" class="celltext" fill="#222222">-2</text>
-<rect x="278" y="245" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
-<text x="318.0" y="264.0" class="celltext" fill="#222222">0</text>
-<rect x="362" y="245" width="80" height="36" rx="6" ry="6" fill="#cee6cc" stroke="#d7d1c7" />
-<text x="402.0" y="264.0" class="celltext" fill="#222222">0.4</text>
-<rect x="446" y="245" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
-<text x="486.0" y="264.0" class="celltext" fill="#222222">0</text>
-<rect x="530" y="245" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
-<text x="570.0" y="264.0" class="celltext" fill="#222222">0</text>
+<rect x="194" y="245" width="80" height="36" rx="6" ry="6" fill="#ebb8b2" stroke="#d7d1c7" />
+<text x="234.0" y="264.0" class="celltext" fill="#222222">-1</text>
+<rect x="278" y="245" width="80" height="36" rx="6" ry="6" fill="#f6d2cc" stroke="#d7d1c7" />
+<text x="318.0" y="264.0" class="celltext" fill="#222222">-0.182</text>
+<rect x="362" y="245" width="80" height="36" rx="6" ry="6" fill="#d1e8cf" stroke="#d7d1c7" />
+<text x="402.0" y="264.0" class="celltext" fill="#222222">0.312</text>
+<rect x="446" y="245" width="80" height="36" rx="6" ry="6" fill="#f7d5cf" stroke="#d7d1c7" />
+<text x="486.0" y="264.0" class="celltext" fill="#222222">-0.091</text>
+<rect x="530" y="245" width="80" height="36" rx="6" ry="6" fill="#f7d5cf" stroke="#d7d1c7" />
+<text x="570.0" y="264.0" class="celltext" fill="#222222">-0.083</text>
 <rect x="614" y="245" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
 <text x="654.0" y="264.0" class="celltext" fill="#222222">0</text>
-<rect x="698" y="245" width="80" height="36" rx="6" ry="6" fill="#e2a29b" stroke="#d7d1c7" />
-<text x="738.0" y="264.0" class="celltext" fill="#222222">-1.714</text>
+<rect x="698" y="245" width="80" height="36" rx="6" ry="6" fill="#e9b2ac" stroke="#d7d1c7" />
+<text x="738.0" y="264.0" class="celltext" fill="#222222">-1.188</text>
 <text x="16" y="310" class="rowlabel">vecer</text>
-<rect x="110" y="285" width="80" height="36" rx="6" ry="6" fill="#efc0ba" stroke="#d7d1c7" />
-<text x="150.0" y="304.0" class="celltext" fill="#222222">-0.75</text>
-<rect x="194" y="285" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
-<text x="234.0" y="304.0" class="celltext" fill="#222222"></text>
-<rect x="278" y="285" width="80" height="36" rx="6" ry="6" fill="#d0e8ce" stroke="#d7d1c7" />
-<text x="318.0" y="304.0" class="celltext" fill="#222222">0.333</text>
-<rect x="362" y="285" width="80" height="36" rx="6" ry="6" fill="#cce5cb" stroke="#d7d1c7" />
-<text x="402.0" y="304.0" class="celltext" fill="#222222">0.444</text>
-<rect x="446" y="285" width="80" height="36" rx="6" ry="6" fill="#f4cdc7" stroke="#d7d1c7" />
-<text x="486.0" y="304.0" class="celltext" fill="#222222">-0.333</text>
-<rect x="530" y="285" width="80" height="36" rx="6" ry="6" fill="#f0c5bf" stroke="#d7d1c7" />
-<text x="570.0" y="304.0" class="celltext" fill="#222222">-0.6</text>
-<rect x="614" y="285" width="80" height="36" rx="6" ry="6" fill="#f0c5bf" stroke="#d7d1c7" />
-<text x="654.0" y="304.0" class="celltext" fill="#222222">-0.6</text>
-<rect x="698" y="285" width="80" height="36" rx="6" ry="6" fill="#e4a59f" stroke="#d7d1c7" />
-<text x="738.0" y="304.0" class="celltext" fill="#222222">-1.6</text>
+<rect x="110" y="285" width="80" height="36" rx="6" ry="6" fill="#f7d5cf" stroke="#d7d1c7" />
+<text x="150.0" y="304.0" class="celltext" fill="#222222">-0.1</text>
+<rect x="194" y="285" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="234.0" y="304.0" class="celltext" fill="#222222">0</text>
+<rect x="278" y="285" width="80" height="36" rx="6" ry="6" fill="#daedd7" stroke="#d7d1c7" />
+<text x="318.0" y="304.0" class="celltext" fill="#222222">0.071</text>
+<rect x="362" y="285" width="80" height="36" rx="6" ry="6" fill="#c8e2c7" stroke="#d7d1c7" />
+<text x="402.0" y="304.0" class="celltext" fill="#222222">0.579</text>
+<rect x="446" y="285" width="80" height="36" rx="6" ry="6" fill="#f2c9c3" stroke="#d7d1c7" />
+<text x="486.0" y="304.0" class="celltext" fill="#222222">-0.462</text>
+<rect x="530" y="285" width="80" height="36" rx="6" ry="6" fill="#f4cec8" stroke="#d7d1c7" />
+<text x="570.0" y="304.0" class="celltext" fill="#222222">-0.308</text>
+<rect x="614" y="285" width="80" height="36" rx="6" ry="6" fill="#f6d3cd" stroke="#d7d1c7" />
+<text x="654.0" y="304.0" class="celltext" fill="#222222">-0.143</text>
+<rect x="698" y="285" width="80" height="36" rx="6" ry="6" fill="#eab6af" stroke="#d7d1c7" />
+<text x="738.0" y="304.0" class="celltext" fill="#222222">-1.091</text>
 <text x="16" y="350" class="rowlabel">delo</text>
-<rect x="110" y="325" width="80" height="36" rx="6" ry="6" fill="#ebb8b2" stroke="#d7d1c7" />
-<text x="150.0" y="344.0" class="celltext" fill="#222222">-1</text>
-<rect x="194" y="325" width="80" height="36" rx="6" ry="6" fill="#df9992" stroke="#d7d1c7" />
-<text x="234.0" y="344.0" class="celltext" fill="#222222">-2</text>
-<rect x="278" y="325" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
-<text x="318.0" y="344.0" class="celltext" fill="#222222">1</text>
-<rect x="362" y="325" width="80" height="36" rx="6" ry="6" fill="#c5e0c4" stroke="#d7d1c7" />
-<text x="402.0" y="344.0" class="celltext" fill="#222222">0.667</text>
-<rect x="446" y="325" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
-<text x="486.0" y="344.0" class="celltext" fill="#222222">1</text>
-<rect x="530" y="325" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
-<text x="570.0" y="344.0" class="celltext" fill="#222222">0</text>
-<rect x="614" y="325" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
-<text x="654.0" y="344.0" class="celltext" fill="#222222">0</text>
-<rect x="698" y="325" width="80" height="36" rx="6" ry="6" fill="#df9992" stroke="#d7d1c7" />
-<text x="738.0" y="344.0" class="celltext" fill="#222222">-2</text>
+<rect x="110" y="325" width="80" height="36" rx="6" ry="6" fill="#d5ebd3" stroke="#d7d1c7" />
+<text x="150.0" y="344.0" class="celltext" fill="#222222">0.2</text>
+<rect x="194" y="325" width="80" height="36" rx="6" ry="6" fill="#f2c8c2" stroke="#d7d1c7" />
+<text x="234.0" y="344.0" class="celltext" fill="#222222">-0.5</text>
+<rect x="278" y="325" width="80" height="36" rx="6" ry="6" fill="#f3cac4" stroke="#d7d1c7" />
+<text x="318.0" y="344.0" class="celltext" fill="#222222">-0.429</text>
+<rect x="362" y="325" width="80" height="36" rx="6" ry="6" fill="#bedcbe" stroke="#d7d1c7" />
+<text x="402.0" y="344.0" class="celltext" fill="#222222">0.867</text>
+<rect x="446" y="325" width="80" height="36" rx="6" ry="6" fill="#d4ead2" stroke="#d7d1c7" />
+<text x="486.0" y="344.0" class="celltext" fill="#222222">0.222</text>
+<rect x="530" y="325" width="80" height="36" rx="6" ry="6" fill="#f5d1cb" stroke="#d7d1c7" />
+<text x="570.0" y="344.0" class="celltext" fill="#222222">-0.222</text>
+<rect x="614" y="325" width="80" height="36" rx="6" ry="6" fill="#d5ebd3" stroke="#d7d1c7" />
+<text x="654.0" y="344.0" class="celltext" fill="#222222">0.2</text>
+<rect x="698" y="325" width="80" height="36" rx="6" ry="6" fill="#e9b2ab" stroke="#d7d1c7" />
+<text x="738.0" y="344.0" class="celltext" fill="#222222">-1.214</text>
 <text x="16" y="390" class="rowlabel">siol</text>
-<rect x="110" y="365" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
-<text x="150.0" y="384.0" class="celltext" fill="#222222">1</text>
-<rect x="194" y="365" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
-<text x="234.0" y="384.0" class="celltext" fill="#222222"></text>
+<rect x="110" y="365" width="80" height="36" rx="6" ry="6" fill="#d4ead2" stroke="#d7d1c7" />
+<text x="150.0" y="384.0" class="celltext" fill="#222222">0.222</text>
+<rect x="194" y="365" width="80" height="36" rx="6" ry="6" fill="#ebb8b2" stroke="#d7d1c7" />
+<text x="234.0" y="384.0" class="celltext" fill="#222222">-1</text>
 <rect x="278" y="365" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
 <text x="318.0" y="384.0" class="celltext" fill="#222222">0</text>
-<rect x="362" y="365" width="80" height="36" rx="6" ry="6" fill="#c2dec1" stroke="#d7d1c7" />
-<text x="402.0" y="384.0" class="celltext" fill="#222222">0.75</text>
-<rect x="446" y="365" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
-<text x="486.0" y="384.0" class="celltext" fill="#222222"></text>
-<rect x="530" y="365" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
-<text x="570.0" y="384.0" class="celltext" fill="#222222">0</text>
-<rect x="614" y="365" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
-<text x="654.0" y="384.0" class="celltext" fill="#222222">0</text>
-<rect x="698" y="365" width="80" height="36" rx="6" ry="6" fill="#ebb8b2" stroke="#d7d1c7" />
-<text x="738.0" y="384.0" class="celltext" fill="#222222">-1</text>
+<rect x="362" y="365" width="80" height="36" rx="6" ry="6" fill="#bcdbbd" stroke="#d7d1c7" />
+<text x="402.0" y="384.0" class="celltext" fill="#222222">0.9</text>
+<rect x="446" y="365" width="80" height="36" rx="6" ry="6" fill="#f7d5cf" stroke="#d7d1c7" />
+<text x="486.0" y="384.0" class="celltext" fill="#222222">-0.1</text>
+<rect x="530" y="365" width="80" height="36" rx="6" ry="6" fill="#d7ecd4" stroke="#d7d1c7" />
+<text x="570.0" y="384.0" class="celltext" fill="#222222">0.154</text>
+<rect x="614" y="365" width="80" height="36" rx="6" ry="6" fill="#f2cac3" stroke="#d7d1c7" />
+<text x="654.0" y="384.0" class="celltext" fill="#222222">-0.455</text>
+<rect x="698" y="365" width="80" height="36" rx="6" ry="6" fill="#ebb7b0" stroke="#d7d1c7" />
+<text x="738.0" y="384.0" class="celltext" fill="#222222">-1.05</text>
 <text x="16" y="430" class="rowlabel">svet24</text>
-<rect x="110" y="405" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
-<text x="150.0" y="424.0" class="celltext" fill="#222222"></text>
+<rect x="110" y="405" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="150.0" y="424.0" class="celltext" fill="#222222">0</text>
 <rect x="194" y="405" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
 <text x="234.0" y="424.0" class="celltext" fill="#222222"></text>
-<rect x="278" y="405" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
-<text x="318.0" y="424.0" class="celltext" fill="#222222">0</text>
-<rect x="362" y="405" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
-<text x="402.0" y="424.0" class="celltext" fill="#222222">1</text>
-<rect x="446" y="405" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
-<text x="486.0" y="424.0" class="celltext" fill="#222222">0</text>
-<rect x="530" y="405" width="80" height="36" rx="6" ry="6" fill="#a8cdaa" stroke="#d7d1c7" />
-<text x="570.0" y="424.0" class="celltext" fill="#222222">1.5</text>
+<rect x="278" y="405" width="80" height="36" rx="6" ry="6" fill="#f0c3bd" stroke="#d7d1c7" />
+<text x="318.0" y="424.0" class="celltext" fill="#222222">-0.667</text>
+<rect x="362" y="405" width="80" height="36" rx="6" ry="6" fill="#c1dec1" stroke="#d7d1c7" />
+<text x="402.0" y="424.0" class="celltext" fill="#222222">0.769</text>
+<rect x="446" y="405" width="80" height="36" rx="6" ry="6" fill="#f5d0ca" stroke="#d7d1c7" />
+<text x="486.0" y="424.0" class="celltext" fill="#222222">-0.25</text>
+<rect x="530" y="405" width="80" height="36" rx="6" ry="6" fill="#cfe7cd" stroke="#d7d1c7" />
+<text x="570.0" y="424.0" class="celltext" fill="#222222">0.375</text>
 <rect x="614" y="405" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
 <text x="654.0" y="424.0" class="celltext" fill="#222222">0</text>
-<rect x="698" y="405" width="80" height="36" rx="6" ry="6" fill="#f0c5bf" stroke="#d7d1c7" />
-<text x="738.0" y="424.0" class="celltext" fill="#222222">-0.6</text>
+<rect x="698" y="405" width="80" height="36" rx="6" ry="6" fill="#e8afa9" stroke="#d7d1c7" />
+<text x="738.0" y="424.0" class="celltext" fill="#222222">-1.286</text>
 </svg>

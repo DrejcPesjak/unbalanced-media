@@ -9,20 +9,34 @@ from .outlets import identify_outlet
 
 
 class EventRegistryClient:
-    def __init__(self, api_key: str, base_url: str, category_uri: str, location_uri: str) -> None:
+    def __init__(
+        self,
+        api_key: str,
+        base_url: str,
+        category_uri: str | list[str],
+        location_uri: str | list[str],
+        concept_uri: str | list[str] | None = None,
+    ) -> None:
         self.api_key = api_key
         self.base_url = base_url.rstrip("/")
-        self.category_uri = self._normalize_category_uri(category_uri)
-        self.location_uri = location_uri
+        self.category_uri = self._normalize_category_uris(category_uri)
+        self.location_uri = location_uri if isinstance(location_uri, list) else [location_uri]
+        self.concept_uri = concept_uri if isinstance(concept_uri, list) else ([concept_uri] if concept_uri else [])
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": "eventregistry-llm/0.1"})
 
     @staticmethod
-    def _normalize_category_uri(category_uri: str) -> str:
-        normalized = category_uri.strip()
-        if normalized.casefold() == "politics":
-            return "news/Politics"
-        return normalized
+    def _normalize_category_uris(category_uri: str | list[str]) -> list[str]:
+        values = category_uri if isinstance(category_uri, list) else [category_uri]
+        normalized_values: list[str] = []
+        for value in values:
+            normalized = value.strip()
+            if not normalized:
+                continue
+            if normalized.casefold() == "politics":
+                normalized = "news/Politics"
+            normalized_values.append(normalized)
+        return normalized_values
 
     def _get(self, path: str, **params: Any) -> dict[str, Any]:
         clean_params = {key: value for key, value in params.items() if value not in (None, "", [])}
@@ -44,6 +58,51 @@ class EventRegistryClient:
         lang: str | None = None,
         source_uris: list[str] | None = None,
     ) -> list[EventRecord]:
+        category_uris = self.category_uri
+        slovenia_concept = next((uri for uri in self.concept_uri if uri.endswith("/Slovenia")), None)
+        political_party_concept = next((uri for uri in self.concept_uri if uri.endswith("/Political_party")), None)
+
+        query_variants: list[dict[str, Any]] = [
+            {"categoryUri": category_uris, "locationUri": self.location_uri},
+        ]
+        if slovenia_concept:
+            query_variants.append({"categoryUri": category_uris, "conceptUri": slovenia_concept})
+        if political_party_concept:
+            query_variants.append({"conceptUri": political_party_concept, "locationUri": self.location_uri})
+            if slovenia_concept:
+                query_variants.append({"conceptUri": [political_party_concept, slovenia_concept], "conceptOper": "and"})
+
+        seen: set[str] = set()
+        records: list[EventRecord] = []
+        for variant in query_variants:
+            for record in self._get_events_variant(
+                date_start=date_start,
+                date_end=date_end,
+                max_events=max_events,
+                min_articles=min_articles,
+                lang=lang,
+                source_uris=source_uris,
+                variant=variant,
+            ):
+                if not record.event_uri or record.event_uri in seen:
+                    continue
+                seen.add(record.event_uri)
+                records.append(record)
+                if max_events is not None and len(records) >= max_events:
+                    return records
+        return records
+
+    def _get_events_variant(
+        self,
+        *,
+        date_start: str,
+        date_end: str,
+        max_events: int | None,
+        min_articles: int,
+        lang: str | None,
+        source_uris: list[str] | None,
+        variant: dict[str, Any],
+    ) -> list[EventRecord]:
         records: list[EventRecord] = []
         page = 1
         page_size = 50
@@ -53,16 +112,16 @@ class EventRegistryClient:
                 break
             payload = self._get(
                 "event/getEvents",
-                categoryUri=self.category_uri,
-                locationUri=self.location_uri,
-                sourceUri=source_uris,
-                lang=lang,
+                resultType="events",
+                eventsSortBy="date",
+                eventsCount=page_size if remaining is None else min(page_size, remaining),
+                eventsPage=page,
                 dateStart=date_start,
                 dateEnd=date_end,
+                lang=lang,
                 minArticlesInEvent=min_articles,
-                sortBy="date",
-                maxItems=page_size if remaining is None else min(page_size, remaining),
-                page=page,
+                sourceUri=source_uris,
+                **variant,
             )
             events = payload.get("events", {}).get("results", [])
             if not events:
@@ -82,9 +141,15 @@ class EventRegistryClient:
             if total_pages is not None and page >= total_pages:
                 break
             page += 1
-        return [record for record in records if record.event_uri]
+        return records
 
-    def get_event_articles(self, event_uri: str, *, article_lang: str | None = None) -> list[dict[str, Any]]:
+    def get_event_articles(
+        self,
+        event_uri: str,
+        *,
+        article_lang: str | None = None,
+        source_uris: list[str] | None = None,
+    ) -> list[dict[str, Any]]:
         page = 1
         results: list[dict[str, Any]] = []
         while True:
@@ -93,6 +158,7 @@ class EventRegistryClient:
                 eventUri=event_uri,
                 resultType="articles",
                 articlesLang=article_lang,
+                sourceUri=source_uris,
                 articlesCount=100,
                 articlesPage=page,
                 articlesSortBy="date",

@@ -42,6 +42,7 @@ class Pipeline:
             base_url=self.settings.eventregistry_base_url,
             category_uri=self.settings.eventregistry_category_uri,
             location_uri=self.settings.eventregistry_location_uri,
+            concept_uri=self.settings.eventregistry_concept_uri,
         )
         self.cache = ArticleCache(self.settings.cache_dir)
         self.parties = load_party_registry(self.settings.party_registry_path)
@@ -70,13 +71,13 @@ class Pipeline:
             max_events=options.max_events,
             min_articles=options.min_articles,
             lang=options.article_lang,
-            source_uris=query_source_uris(),
         )
         print(f"[fetch] Retrieved {len(events)} candidate events from EventRegistry")
 
         written_files: list[Path] = []
+        allowed_prefixes = _allowed_event_prefixes(options.event_uri_prefix)
         for index, event in enumerate(events, start=1):
-            if options.event_uri_prefix and event.uri_prefix != options.event_uri_prefix:
+            if allowed_prefixes and event.uri_prefix not in allowed_prefixes:
                 continue
             print(f"[fetch] {index}/{len(events)} {event.event_uri}")
             path = self._process_event(event, options, analyze=False)
@@ -151,9 +152,10 @@ class Pipeline:
     def _iter_cached_event_files(self, options: RunOptions) -> list[Path]:
         paths = sorted(self.settings.output_events_dir.glob("*.json"))
         selected: list[Path] = []
+        allowed_prefixes = _allowed_event_prefixes(options.event_uri_prefix)
         for path in paths:
             parsed = EventAnalysisFile.model_validate_json(path.read_text(encoding="utf-8"))
-            if options.event_uri_prefix and not parsed.event_uri.startswith(f"{options.event_uri_prefix}-"):
+            if allowed_prefixes and parsed.event_uri.split("-", 1)[0].casefold() not in allowed_prefixes:
                 continue
             if parsed.event_date and not (options.date_start <= parsed.event_date <= options.date_end):
                 continue
@@ -167,6 +169,8 @@ class Pipeline:
         articles = [article for article in cached.fixed_outlet_articles if not options.article_lang or article.lang == options.article_lang]
         mentions = detect_party_mentions(articles, self.parties)
         if not mentions:
+            return None
+        if not self._has_multi_entity_article(articles):
             return None
         party_analyses = self._build_party_analyses(cached.event_uri, mentions, articles)
         updated = EventAnalysisFile(
@@ -203,7 +207,11 @@ class Pipeline:
                 if (not options.article_lang or article.lang == options.article_lang) and article.body_text.strip()
             ]
         else:
-            raw_articles = self.client.get_event_articles(event.event_uri, article_lang=options.article_lang)
+            raw_articles = self.client.get_event_articles(
+                event.event_uri,
+                article_lang=options.article_lang,
+                source_uris=query_source_uris(),
+            )
             normalized_articles = []
             seen_article_uris: set[str] = set()
             for raw_article in raw_articles:
@@ -231,6 +239,8 @@ class Pipeline:
 
         mentions = detect_party_mentions(normalized_articles, self.parties)
         if not mentions:
+            return None
+        if analyze and not self._has_multi_entity_article(normalized_articles):
             return None
 
         analyses = [] if not analyze else self._build_party_analyses(event.event_uri, mentions, normalized_articles)
@@ -313,3 +323,20 @@ class Pipeline:
             party_name=party_name,
             outlet_results=outlet_results,
         )
+
+    def _has_multi_entity_article(self, articles) -> bool:
+        for article in articles:
+            local_entity_count = sum(1 for entity in article.entities if (entity.uri or "").startswith("party:"))
+            if local_entity_count >= 2:
+                return True
+        return False
+
+
+def _allowed_event_prefixes(raw_value: str | None) -> set[str]:
+    if not raw_value:
+        return set()
+    return {
+        item.strip().casefold()
+        for item in raw_value.split(",")
+        if item.strip()
+    }

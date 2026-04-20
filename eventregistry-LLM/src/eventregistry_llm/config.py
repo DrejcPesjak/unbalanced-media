@@ -28,11 +28,32 @@ class Settings(BaseModel):
     eventregistry_base_url: str = Field(
         default_factory=lambda: os.getenv("EVENTREGISTRY_BASE_URL", "https://eventregistry.org/api/v1")
     )
-    eventregistry_category_uri: str = Field(
-        default_factory=lambda: os.getenv("EVENTREGISTRY_CATEGORY_URI", "news/Politics")
+    eventregistry_category_uri: list[str] = Field(
+        default_factory=lambda: [
+            item.strip()
+            for item in os.getenv("EVENTREGISTRY_CATEGORY_URI", "news/Politics,dmoz/Society/Politics").split(",")
+            if item.strip()
+        ]
     )
-    eventregistry_location_uri: str = Field(
-        default_factory=lambda: os.getenv("EVENTREGISTRY_LOCATION_URI", "http://en.wikipedia.org/wiki/Slovenia")
+    eventregistry_location_uri: list[str] = Field(
+        default_factory=lambda: [
+            item.strip()
+            for item in os.getenv(
+                "EVENTREGISTRY_LOCATION_URI",
+                "http://en.wikipedia.org/wiki/Slovenia,http://en.wikipedia.org/wiki/Ljubljana",
+            ).split(",")
+            if item.strip()
+        ]
+    )
+    eventregistry_concept_uri: list[str] = Field(
+        default_factory=lambda: [
+            item.strip()
+            for item in os.getenv(
+                "EVENTREGISTRY_CONCEPT_URI",
+                "http://en.wikipedia.org/wiki/Slovenia,http://en.wikipedia.org/wiki/Political_party",
+            ).split(",")
+            if item.strip()
+        ]
     )
     cache_dir: Path = Field(default_factory=lambda: PROJECT_ROOT / "cache" / "articles")
     output_events_dir: Path = Field(default_factory=lambda: PROJECT_ROOT / "output" / "events")
