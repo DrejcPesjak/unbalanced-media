@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="802" height="465" viewBox="0 0 802 465">
+<rect width="100%" height="100%" fill="#faf8f4" />
+<style>text{font-family:Arial,sans-serif;fill:#222} .label{font-size:14px;font-weight:700} .celltext{font-size:13px;font-weight:700;text-anchor:middle;dominant-baseline:middle} .rowlabel{font-size:14px;font-weight:700} .footer{font-size:12px;fill:#555}</style>
+<text x="16" y="28" class="label">Average sentiment score by outlet and party</text>
+<text x="16" y="48" class="footer">Scores come from aggregate event-level LLM analyses. Blank means no numeric score.</text>
+<text x="152.0" y="67" class="label" text-anchor="middle">levica</text>
+<text x="236.0" y="67" class="label" text-anchor="middle">pirati</text>
+<text x="320.0" y="67" class="label" text-anchor="middle">sd</text>
+<text x="404.0" y="67" class="label" text-anchor="middle">svoboda</text>
+<text x="488.0" y="67" class="label" text-anchor="middle">demokrati</text>
+<text x="572.0" y="67" class="label" text-anchor="middle">nsi</text>
+<text x="656.0" y="67" class="label" text-anchor="middle">resnica</text>
+<text x="740.0" y="67" class="label" text-anchor="middle">sds</text>
+<text x="16" y="110" class="rowlabel">rtv</text>
+<rect x="110" y="85" width="80" height="36" rx="6" ry="6" fill="#f5d2cc" stroke="#d7d1c7" />
+<text x="150.0" y="104.0" class="celltext" fill="#222222">-0.2</text>
+<rect x="194" y="85" width="80" height="36" rx="6" ry="6" fill="#ebb8b2" stroke="#d7d1c7" />
+<text x="234.0" y="104.0" class="celltext" fill="#222222">-1</text>
+<rect x="278" y="85" width="80" height="36" rx="6" ry="6" fill="#d5ebd3" stroke="#d7d1c7" />
+<text x="318.0" y="104.0" class="celltext" fill="#222222">0.2</text>
+<rect x="362" y="85" width="80" height="36" rx="6" ry="6" fill="#d4ead2" stroke="#d7d1c7" />
+<text x="402.0" y="104.0" class="celltext" fill="#222222">0.222</text>
+<rect x="446" y="85" width="80" height="36" rx="6" ry="6" fill="#d3e9d1" stroke="#d7d1c7" />
+<text x="486.0" y="104.0" class="celltext" fill="#222222">0.25</text>
+<rect x="530" y="85" width="80" height="36" rx="6" ry="6" fill="#f2c8c2" stroke="#d7d1c7" />
+<text x="570.0" y="104.0" class="celltext" fill="#222222">-0.5</text>
+<rect x="614" y="85" width="80" height="36" rx="6" ry="6" fill="#d3e9d1" stroke="#d7d1c7" />
+<text x="654.0" y="104.0" class="celltext" fill="#222222">0.25</text>
+<rect x="698" y="85" width="80" height="36" rx="6" ry="6" fill="#e3a29c" stroke="#d7d1c7" />
+<text x="738.0" y="104.0" class="celltext" fill="#222222">-1.7</text>
+<text x="16" y="150" class="rowlabel">24ur</text>
+<rect x="110" y="125" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
+<text x="150.0" y="144.0" class="celltext" fill="#222222">1</text>
+<rect x="194" y="125" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
+<text x="234.0" y="144.0" class="celltext" fill="#222222"></text>
+<rect x="278" y="125" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="318.0" y="144.0" class="celltext" fill="#222222">0</text>
+<rect x="362" y="125" width="80" height="36" rx="6" ry="6" fill="#c5e0c4" stroke="#d7d1c7" />
+<text x="402.0" y="144.0" class="celltext" fill="#222222">0.667</text>
+<rect x="446" y="125" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
+<text x="486.0" y="144.0" class="celltext" fill="#222222">1</text>
+<rect x="530" y="125" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
+<text x="570.0" y="144.0" class="celltext" fill="#222222">1</text>
+<rect x="614" y="125" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
+<text x="654.0" y="144.0" class="celltext" fill="#222222">1</text>
+<rect x="698" y="125" width="80" height="36" rx="6" ry="6" fill="#f2c8c2" stroke="#d7d1c7" />
+<text x="738.0" y="144.0" class="celltext" fill="#222222">-0.5</text>
+<text x="16" y="190" class="rowlabel">nova24tv</text>
+<rect x="110" y="165" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
+<text x="150.0" y="184.0" class="celltext" fill="#222222"></text>
+<rect x="194" y="165" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
+<text x="234.0" y="184.0" class="celltext" fill="#222222"></text>
+<rect x="278" y="165" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="318.0" y="184.0" class="celltext" fill="#222222">0</text>
+<rect x="362" y="165" width="80" height="36" rx="6" ry="6" fill="#d88982" stroke="#d7d1c7" />
+<text x="402.0" y="184.0" class="celltext" fill="#ffffff">-2.5</text>
+<rect x="446" y="165" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
+<text x="486.0" y="184.0" class="celltext" fill="#222222"></text>
+<rect x="530" y="165" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
+<text x="570.0" y="184.0" class="celltext" fill="#222222"></text>
+<rect x="614" y="165" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
+<text x="654.0" y="184.0" class="celltext" fill="#222222"></text>
+<rect x="698" y="165" width="80" height="36" rx="6" ry="6" fill="#81b587" stroke="#d7d1c7" />
+<text x="738.0" y="184.0" class="celltext" fill="#ffffff">2.6</text>
+<text x="16" y="230" class="rowlabel">mladina</text>
+<rect x="110" y="205" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="150.0" y="224.0" class="celltext" fill="#222222">0</text>
+<rect x="194" y="205" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
+<text x="234.0" y="224.0" class="celltext" fill="#222222"></text>
+<rect x="278" y="205" width="80" height="36" rx="6" ry="6" fill="#d0e8ce" stroke="#d7d1c7" />
+<text x="318.0" y="224.0" class="celltext" fill="#222222">0.333</text>
+<rect x="362" y="205" width="80" height="36" rx="6" ry="6" fill="#a8cdaa" stroke="#d7d1c7" />
+<text x="402.0" y="224.0" class="celltext" fill="#222222">1.5</text>
+<rect x="446" y="205" width="80" height="36" rx="6" ry="6" fill="#c5e0c4" stroke="#d7d1c7" />
+<text x="486.0" y="224.0" class="celltext" fill="#222222">0.667</text>
+<rect x="530" y="205" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="570.0" y="224.0" class="celltext" fill="#222222">0</text>
+<rect x="614" y="205" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="654.0" y="224.0" class="celltext" fill="#222222">0</text>
+<rect x="698" y="205" width="80" height="36" rx="6" ry="6" fill="#d98b84" stroke="#d7d1c7" />
+<text x="738.0" y="224.0" class="celltext" fill="#222222">-2.429</text>
+<text x="16" y="270" class="rowlabel">dnevnik</text>
+<rect x="110" y="245" width="80" height="36" rx="6" ry="6" fill="#cae4c9" stroke="#d7d1c7" />
+<text x="150.0" y="264.0" class="celltext" fill="#222222">0.5</text>
+<rect x="194" y="245" width="80" height="36" rx="6" ry="6" fill="#df9992" stroke="#d7d1c7" />
+<text x="234.0" y="264.0" class="celltext" fill="#222222">-2</text>
+<rect x="278" y="245" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="318.0" y="264.0" class="celltext" fill="#222222">0</text>
+<rect x="362" y="245" width="80" height="36" rx="6" ry="6" fill="#cee6cc" stroke="#d7d1c7" />
+<text x="402.0" y="264.0" class="celltext" fill="#222222">0.4</text>
+<rect x="446" y="245" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="486.0" y="264.0" class="celltext" fill="#222222">0</text>
+<rect x="530" y="245" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="570.0" y="264.0" class="celltext" fill="#222222">0</text>
+<rect x="614" y="245" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="654.0" y="264.0" class="celltext" fill="#222222">0</text>
+<rect x="698" y="245" width="80" height="36" rx="6" ry="6" fill="#e2a29b" stroke="#d7d1c7" />
+<text x="738.0" y="264.0" class="celltext" fill="#222222">-1.714</text>
+<text x="16" y="310" class="rowlabel">vecer</text>
+<rect x="110" y="285" width="80" height="36" rx="6" ry="6" fill="#efc0ba" stroke="#d7d1c7" />
+<text x="150.0" y="304.0" class="celltext" fill="#222222">-0.75</text>
+<rect x="194" y="285" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
+<text x="234.0" y="304.0" class="celltext" fill="#222222"></text>
+<rect x="278" y="285" width="80" height="36" rx="6" ry="6" fill="#d0e8ce" stroke="#d7d1c7" />
+<text x="318.0" y="304.0" class="celltext" fill="#222222">0.333</text>
+<rect x="362" y="285" width="80" height="36" rx="6" ry="6" fill="#cce5cb" stroke="#d7d1c7" />
+<text x="402.0" y="304.0" class="celltext" fill="#222222">0.444</text>
+<rect x="446" y="285" width="80" height="36" rx="6" ry="6" fill="#f4cdc7" stroke="#d7d1c7" />
+<text x="486.0" y="304.0" class="celltext" fill="#222222">-0.333</text>
+<rect x="530" y="285" width="80" height="36" rx="6" ry="6" fill="#f0c5bf" stroke="#d7d1c7" />
+<text x="570.0" y="304.0" class="celltext" fill="#222222">-0.6</text>
+<rect x="614" y="285" width="80" height="36" rx="6" ry="6" fill="#f0c5bf" stroke="#d7d1c7" />
+<text x="654.0" y="304.0" class="celltext" fill="#222222">-0.6</text>
+<rect x="698" y="285" width="80" height="36" rx="6" ry="6" fill="#e4a59f" stroke="#d7d1c7" />
+<text x="738.0" y="304.0" class="celltext" fill="#222222">-1.6</text>
+<text x="16" y="350" class="rowlabel">delo</text>
+<rect x="110" y="325" width="80" height="36" rx="6" ry="6" fill="#ebb8b2" stroke="#d7d1c7" />
+<text x="150.0" y="344.0" class="celltext" fill="#222222">-1</text>
+<rect x="194" y="325" width="80" height="36" rx="6" ry="6" fill="#df9992" stroke="#d7d1c7" />
+<text x="234.0" y="344.0" class="celltext" fill="#222222">-2</text>
+<rect x="278" y="325" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
+<text x="318.0" y="344.0" class="celltext" fill="#222222">1</text>
+<rect x="362" y="325" width="80" height="36" rx="6" ry="6" fill="#c5e0c4" stroke="#d7d1c7" />
+<text x="402.0" y="344.0" class="celltext" fill="#222222">0.667</text>
+<rect x="446" y="325" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
+<text x="486.0" y="344.0" class="celltext" fill="#222222">1</text>
+<rect x="530" y="325" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="570.0" y="344.0" class="celltext" fill="#222222">0</text>
+<rect x="614" y="325" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="654.0" y="344.0" class="celltext" fill="#222222">0</text>
+<rect x="698" y="325" width="80" height="36" rx="6" ry="6" fill="#df9992" stroke="#d7d1c7" />
+<text x="738.0" y="344.0" class="celltext" fill="#222222">-2</text>
+<text x="16" y="390" class="rowlabel">siol</text>
+<rect x="110" y="365" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
+<text x="150.0" y="384.0" class="celltext" fill="#222222">1</text>
+<rect x="194" y="365" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
+<text x="234.0" y="384.0" class="celltext" fill="#222222"></text>
+<rect x="278" y="365" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="318.0" y="384.0" class="celltext" fill="#222222">0</text>
+<rect x="362" y="365" width="80" height="36" rx="6" ry="6" fill="#c2dec1" stroke="#d7d1c7" />
+<text x="402.0" y="384.0" class="celltext" fill="#222222">0.75</text>
+<rect x="446" y="365" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
+<text x="486.0" y="384.0" class="celltext" fill="#222222"></text>
+<rect x="530" y="365" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="570.0" y="384.0" class="celltext" fill="#222222">0</text>
+<rect x="614" y="365" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="654.0" y="384.0" class="celltext" fill="#222222">0</text>
+<rect x="698" y="365" width="80" height="36" rx="6" ry="6" fill="#ebb8b2" stroke="#d7d1c7" />
+<text x="738.0" y="384.0" class="celltext" fill="#222222">-1</text>
+<text x="16" y="430" class="rowlabel">svet24</text>
+<rect x="110" y="405" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
+<text x="150.0" y="424.0" class="celltext" fill="#222222"></text>
+<rect x="194" y="405" width="80" height="36" rx="6" ry="6" fill="#efebe3" stroke="#d7d1c7" />
+<text x="234.0" y="424.0" class="celltext" fill="#222222"></text>
+<rect x="278" y="405" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="318.0" y="424.0" class="celltext" fill="#222222">0</text>
+<rect x="362" y="405" width="80" height="36" rx="6" ry="6" fill="#b9d9b9" stroke="#d7d1c7" />
+<text x="402.0" y="424.0" class="celltext" fill="#222222">1</text>
+<rect x="446" y="405" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="486.0" y="424.0" class="celltext" fill="#222222">0</text>
+<rect x="530" y="405" width="80" height="36" rx="6" ry="6" fill="#a8cdaa" stroke="#d7d1c7" />
+<text x="570.0" y="424.0" class="celltext" fill="#222222">1.5</text>
+<rect x="614" y="405" width="80" height="36" rx="6" ry="6" fill="#f3f0e9" stroke="#d7d1c7" />
+<text x="654.0" y="424.0" class="celltext" fill="#222222">0</text>
+<rect x="698" y="405" width="80" height="36" rx="6" ry="6" fill="#f0c5bf" stroke="#d7d1c7" />
+<text x="738.0" y="424.0" class="celltext" fill="#222222">-0.6</text>
+</svg>
